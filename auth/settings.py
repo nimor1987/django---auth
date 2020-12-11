@@ -14,7 +14,7 @@ SECRET_KEY = 'o3n^s*e8js1t6$u9ana4aurif6+p!iyzy$#z6rb0)$%&zm-v(('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['django-test-nimor.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['django---auth.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
